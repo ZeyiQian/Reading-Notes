@@ -1,0 +1,48 @@
+StataFileTM:00001:01100:GREC:                          :
+00005:00004:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 15 Aug 2018
+*! time: 09:06:39
+*! graph_scheme: s1mono
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.plotregion1.plot2.EditCustomStyle , j(6) style(label(position(1)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(1) style(label(position(1)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(7) style(label(position(1)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(7) style(label(position(9)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(7) style(label(position(11)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(7) style(label(position(12)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(8) style(label(position(9)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(5) style(label(position(1)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(12) style(label(position(5)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(5) style(label(position(12)))
+// plot2 compass position
+
+.plotregion1.plot2.EditCustomStyle , j(9) style(label(position(1)))
+// plot2 compass position
+
+
+// <end>
