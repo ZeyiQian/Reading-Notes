@@ -1,0 +1,6 @@
+% This program computes the counterfactual results with trade deficits displayed in Table A.4 through Table A.7
+
+% Welfare and trade effects from NAFTA's tariff reductions, with trade deficits
+    welfare_stats_with_deficit(ToTL_all_oN,VoTL_all_oN,ToTEjn_all_oN,...
+    ToTMjn_all_oN,VoTXjn_all_oN,VotXjni_all_oN,Xjni_dc_all_oN,W_all_oN,In,...
+    shareEjn_all_on, shareEjnp_all_oN, gimp_all_oN, HH_exp_allp_oN, HH_exp_all_oN)
